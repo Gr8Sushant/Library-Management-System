@@ -1,0 +1,57 @@
+/* root variable  */
+:root{
+  font-family: 'Roboto', sans-serif;
+}
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+/* footer background  */
+nav, footer{
+  background-color: rgb(34, 34, 34);
+}
+/* navigation menu lists  */
+.menu-nav li{
+  padding: 1px 2px;
+}
+/* hover effects on navigation menus  */
+.menu-nav li:hover{
+  border-bottom: 2px white solid;
+  padding: 0px 2px;
+}
+/* logo image  */
+.logo-img{
+  width: 50px;
+  margin-top: -10px;
+}
+/* style for landing page  */
+.landing-div{
+  background-image: url('../images/library.jpg');
+  height: 600px;
+  width: 100%;
+  background-repeat: no-repeat;
+}
+.card-img-top{
+  width: 100%;
+  max-width: 220px;
+  max-height: 275px;
+  overflow: hidden;
+}
+.login-btn:hover{
+  color: 0062E6;
+  background-color: 33AEFF;
+}
+.center-text{
+  border-radius: 20px;
+  background-size:auto;
+  color: white;
+  margin-top: 15%;
+  padding: 1% 2% 1% 2%;
+  background-color: rgb(33,37,41);
+}
+
+.footer-nav-a{
+  color: white;
+}
+.footer{
+  margin-top: 50px;
+}
