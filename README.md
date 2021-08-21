@@ -22,3 +22,7 @@ __pipenv install pillow__
 ### Grid structure for books (Cards)
 
 ![plot](./snapshots/1.png)
+
+### acknowledgement
+
+Special thanks to my team for helping with this project: Akin Shrestha, Dibash Shrestha, Sakshyam Shrestha
